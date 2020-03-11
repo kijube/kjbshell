@@ -1,5 +1,5 @@
 # kjb shell 🧊 
-[![License](https://img.shields.io/badge/license-MIT-red.svg)](https://raw.githubusercontent.com/kijube/shell/master/LICENSE) 
+[![License](https://img.shields.io/badge/license-MIT-red.svg)](https://raw.githubusercontent.com/kijube/kjbshell/master/LICENSE) 
 
 The kjb shell is an open source single-file php shell that can be used for penetration testing. It comes with file upload and download functionality and aims to increase productivity through simple usage. Moreover, the kjb shell even works if it is just `include()`'d.
 
