@@ -1,0 +1,31 @@
+:root {
+    --bg: #002b36;
+    --bg-dark: #001e25;;
+    --fg: #fdf6e3;
+    --hint-bg: #268bd2;
+    --err-fg: #dc322f;
+
+    --cmd: #93a1a1;
+
+    --fsize: 1em;
+}
+
+body {
+    margin: 0;
+}
+
+#wrapper, #wrapper * {
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg);
+    font-family: Consolas, monospace, sans-serif;
+    color: var(--fg);
+    font-size: var(--fsize);
+}
+
+#wrapper {
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box !important;
+    padding: 0.5em !important;
+}
