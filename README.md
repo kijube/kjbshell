@@ -6,7 +6,7 @@ The kjb shell is an open source single-file php shell that can be used for penet
 Screenshots
 ----
 
-![Screenshot](https://i.imgur.com/1nnHuRq.png)
+![Screenshot](https://i.imgur.com/wKUipDV.png)
 
 Installation
 ----
